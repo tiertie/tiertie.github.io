@@ -5,8 +5,8 @@
     
     <entry>
       <title>博客搭建</title>
-      <link href="/2023/04/01/fa-bu-di-yi-pian-ge-ren-bo-ke/"/>
-      <url>/2023/04/01/fa-bu-di-yi-pian-ge-ren-bo-ke/</url>
+      <link href="/2023/04/01/bo-ke-da-jian/"/>
+      <url>/2023/04/01/bo-ke-da-jian/</url>
       
         <content type="html"><![CDATA[<h2 id="博客框架和主题"><a href="#博客框架和主题" class="headerlink" title="博客框架和主题"></a>博客框架和主题</h2><p>一开始我选择的是Jekyll框架，因为觉得它主题比较丰富，生态也比较完善，但后来发现网上Hexo的博客教程非常详细<del>（没办法，他给的实在太多了）</del>，为了以后少踩一些坑，还是转到了Hexo～</p><h2 id="博客主题"><a href="#博客主题" class="headerlink" title="博客主题"></a>博客主题</h2><p>主题选了很久（学长说得没错，选主题是第一步，做了一半发现主题不满意是很痛苦的），最后选择了matery，应该也有不少人在用</p><h2 id="收获"><a href="#收获" class="headerlink" title="收获"></a>收获</h2><p>之前对自己搭建博客没什么兴趣，真正去了解后发现还是挺有意思，能够自己DIY一些个人风格，而且一个好看舒服的博客界面能够极大地提升自己写博客的意愿。搭建虽然用的也是别人的模板，但在过程中也还是学到了一些东西，之后会一步步完善博客框架和内容</p>]]></content>
       
